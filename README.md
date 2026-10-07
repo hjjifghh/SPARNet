@@ -1,1 +1,1 @@
-# LPRINet
+# SPARNet
